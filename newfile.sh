@@ -1,4 +1,2 @@
 #!/bin/bash
-
-echo "This is a script file...in local..."
-
+echo "This is a file.."
